@@ -1,8 +1,10 @@
 # The-Hare-and-The-Turtle-Race
 
 Goal: To familiarize ourselves with the concept of pointers, syntax of c++ and to develop the stimulation of famous Tortoise and Hare fable.
+
 Input: 
 * None.
+
 Output:
 * Print out the positions of tortoise and hare each time the dice is rolled and also prints the finish line in order to keep track of who reaches the finish line first.
 Requirements:
