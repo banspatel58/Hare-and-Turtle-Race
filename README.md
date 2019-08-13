@@ -1,6 +1,6 @@
 # The-Hare-and-The-Turtle-Race
 
-Goal: To familiarize ourselves with the concept of pointers, syntax of c++ and to develop the stimulation of famous Tortoise and Hare fable.
+Goal: Develop the stimulation of famous Tortoise and Hare fable.
 
 Input: 
 * None.
